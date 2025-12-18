@@ -57,16 +57,6 @@ Organizations and individuals often deal with large volumes of unstructured text
 
 Use clear filenames:
 
-```text
-screenshots/
-  dashboard_home.png
-  sentiment_distribution.png
-  prediction_table.png
-  csv_upload_example.png
-```
-
----
-
 ### ⭐ Why This Project Matters
 
 This project demonstrates:
@@ -126,23 +116,11 @@ It is well-suited for **entry-level AI/ML, data science, and NLP-focused roles**
 
 ### 🚀 Demo Link
 
-🔗 
+🔗  https://busim5-sentiment-analysis-streamlit-app-9r3dkw.streamlit.app 
 
 ### 🖼️ Screenshots
 
 Add screenshots of the dashboard interface here:
-
-```text
-/screenshots
-  ├── dashboard_home.png
-  ├── sentiment_distribution.png
-  └── prediction_table.png
-```
-
-Example:
-![Dashboard Overview](screenshots/dashboard_home.png)
-
----
 
 ### 📌 Future Enhancements (Optional)
 
